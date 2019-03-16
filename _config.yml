@@ -1,3 +1,4 @@
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
+remote_theme: ferrolho/jekyll-theme-libretto
 title: [Blanket Statement]
 description: [Help crowdknit a blanket for a child in distress at CSTA 2019]
