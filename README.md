@@ -12,10 +12,10 @@ If you already knit or crochet, come by the GitHub table, grab supplies, get bac
 
 Instructions (if you already knit or crochet):
 
- - Use a worsted weight (medium weight) acrylic yarn using any pattern that makes you happy.
- - Knit or crochet 7” x 9” blocks (or 9” X 7”, direction doesn’t matter)
- - Drop off completed squares at the GitHub booth.
- - YOU CAN BRING COMPLETED BLOCKS WITH YOU TO THE CONFERENCE
+  - Use a worsted weight (medium weight) acrylic yarn using any pattern that makes you happy.
+  - Knit or crochet 7” x 9” blocks (or 9” X 7”, direction doesn’t matter)
+  - Drop off completed squares at the GitHub booth.
+  - YOU CAN BRING COMPLETED BLOCKS WITH YOU TO THE CONFERENCE
 
 
 And if you want to bring your own supplies, knitting needles are permitted in carry on bags as per [TSA](https://www.tsa.gov/travel/security-screening/whatcanibring/items/knitting-needles).
