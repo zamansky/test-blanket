@@ -1,4 +1,5 @@
 
+![](https://cestlaz.github.io/img/knitting-tech-conference/top.jpg)
 
 Looking forward to hearing all the great ideas at the CSTA Annual Conference but just can’t sit still? 
 
@@ -9,6 +10,8 @@ Join us at the GitHub table in the vendors area.
 We will teach you how to knit or crochet, give you the yarn and the needles  and then set you loose to enjoy the conference. 
 
 If you already knit or crochet, come by the GitHub table, grab supplies, get back to the conference and knit away.
+
+![](https://pbs.twimg.com/media/Cvke8R8WEAAx91h.jpg)
 
 Instructions (if you already knit or crochet):
 
