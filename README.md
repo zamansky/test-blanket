@@ -1,4 +1,4 @@
-# Make a Blanket Statement at CSTA 2019
+## Make a Blanket Statement at CSTA 2019
 
 Looking forward to hearing all the great ideas at the CSTA Annual Conference but just can’t sit still? 
 
