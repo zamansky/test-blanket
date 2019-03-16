@@ -1,5 +1,5 @@
 
-<img src="https://cestlaz.github.io/img/knitting-tech-conference/top.jpg" width="200px" height="200px">
+<img src="https://cestlaz.github.io/img/knitting-tech-conference/top.jpg" width="300px" height="300px" align="center">
 
 Looking forward to hearing all the great ideas at the CSTA Annual Conference but just can’t sit still? 
 
@@ -11,7 +11,7 @@ We will teach you how to knit or crochet, give you the yarn and the needles  and
 
 If you already knit or crochet, come by the GitHub table, grab supplies, get back to the conference and knit away.
 
-![](https://pbs.twimg.com/media/Cvke8R8WEAAx91h.jpg)
+<img src="https://pbs.twimg.com/media/Cvke8R8WEAAx91h.jpg" width="300px" height="300px" align="center">
 
 Instructions (if you already knit or crochet):
 
