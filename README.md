@@ -1,5 +1,5 @@
 
-![](https://cestlaz.github.io/img/knitting-tech-conference/top.jpg)
+<img src="https://cestlaz.github.io/img/knitting-tech-conference/top.jpg" width="200px">
 
 Looking forward to hearing all the great ideas at the CSTA Annual Conference but just can’t sit still? 
 
